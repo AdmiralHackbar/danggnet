@@ -13,12 +13,16 @@ h1 {
     font-size: 5.0em;   
 }
 
+h3 {
+    font-size: 3.0em;   
+}
+
 .links {
     text-align: center;
     color: #222;
 }
 
 .links i {
-    font-size:50px;
+    font-size: 4.0em;
     margin: 0 20px;
 }
