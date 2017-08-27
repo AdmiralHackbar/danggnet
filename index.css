@@ -9,6 +9,10 @@ body {
     text-align: center
 }
 
+.header h1 {
+    font-size: 20.0em;   
+}
+
 .links {
     text-align: center;
     color: #222;
